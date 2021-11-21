@@ -1,2 +1,2 @@
 # ReactTodo
-Created with CodeSandbox
+UdemyでReactを学んだのでReactのみで自力でTodoリストを作りました。
